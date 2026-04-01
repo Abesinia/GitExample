@@ -17,7 +17,7 @@ public class GitExample {
         // TODO code application logic here
         
         String name;
-        
+        int age;
         
         
         
